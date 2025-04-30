@@ -1,2 +1,2 @@
-the first day to learn git/github.
-added.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
