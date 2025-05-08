@@ -4,3 +4,6 @@ Git is free software distributed under the GPL.
 Boss is a bull shit.
 
 the Second day to learn git.
+
+
+clone the dev branch.
